@@ -1,0 +1,328 @@
+{
+  "sales": [
+    {
+      "id": "1775435661918",
+      "date": "2026-04-06T00:34:21.918Z",
+      "total": 8,
+      "items": [
+        {
+          "id": "8",
+          "name": "بطاطس مقلية",
+          "category": "مقبلات",
+          "price": 8,
+          "color": "bg-yellow-100",
+          "icon": "🍟",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775434695156",
+      "date": "2026-04-06T00:18:15.156Z",
+      "total": 8,
+      "items": [
+        {
+          "id": "8",
+          "name": "بطاطس مقلية",
+          "category": "مقبلات",
+          "price": 8,
+          "color": "bg-yellow-100",
+          "icon": "🍟",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775434683533",
+      "date": "2026-04-06T00:18:03.533Z",
+      "total": 8,
+      "items": [
+        {
+          "id": "8",
+          "name": "بطاطس مقلية",
+          "category": "مقبلات",
+          "price": 8,
+          "color": "bg-yellow-100",
+          "icon": "🍟",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775434551884",
+      "date": "2026-04-06T00:15:51.884Z",
+      "total": 8,
+      "items": [
+        {
+          "id": "8",
+          "name": "بطاطس مقلية",
+          "category": "مقبلات",
+          "price": 8,
+          "color": "bg-yellow-100",
+          "icon": "🍟",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775434541262",
+      "date": "2026-04-06T00:15:41.262Z",
+      "total": 35,
+      "items": [
+        {
+          "id": "4",
+          "name": "بيتزا مارغريتا",
+          "category": "وجبات رئيسية",
+          "price": 35,
+          "color": "bg-orange-100",
+          "icon": "🍕",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775434432180",
+      "date": "2026-04-06T00:13:52.180Z",
+      "total": 8,
+      "items": [
+        {
+          "id": "8",
+          "name": "بطاطس مقلية",
+          "category": "مقبلات",
+          "price": 8,
+          "color": "bg-yellow-100",
+          "icon": "🍟",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775348051257",
+      "date": "2026-04-05T00:14:11.257Z",
+      "total": 35,
+      "items": [
+        {
+          "id": "4",
+          "name": "بيتزا مارغريتا",
+          "category": "وجبات رئيسية",
+          "price": 35,
+          "color": "bg-orange-100",
+          "icon": "🍕",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775347710457",
+      "date": "2026-04-05T00:08:30.457Z",
+      "total": 15,
+      "items": [
+        {
+          "id": "10",
+          "name": "تشيز كيك",
+          "category": "حلويات",
+          "price": 15,
+          "color": "bg-pink-100",
+          "icon": "🍰",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775347469305",
+      "date": "2026-04-05T00:04:29.305Z",
+      "total": 15,
+      "items": [
+        {
+          "id": "10",
+          "name": "تشيز كيك",
+          "category": "حلويات",
+          "price": 15,
+          "color": "bg-pink-100",
+          "icon": "🍰",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775347221897",
+      "date": "2026-04-05T00:00:21.897Z",
+      "total": 10,
+      "items": [
+        {
+          "id": "9",
+          "name": "حلقات بصل",
+          "category": "مقبلات",
+          "price": 10,
+          "color": "bg-yellow-100",
+          "icon": "🧅",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775346239905",
+      "date": "2026-04-04T23:43:59.905Z",
+      "total": 15,
+      "items": [
+        {
+          "id": "10",
+          "name": "تشيز كيك",
+          "category": "حلويات",
+          "price": 15,
+          "color": "bg-pink-100",
+          "icon": "🍰",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    },
+    {
+      "id": "1775346194537",
+      "date": "2026-04-04T23:43:14.537Z",
+      "total": 10,
+      "items": [
+        {
+          "id": "9",
+          "name": "حلقات بصل",
+          "category": "مقبلات",
+          "price": 10,
+          "color": "bg-yellow-100",
+          "icon": "🧅",
+          "quantity": 1
+        }
+      ],
+      "status": "completed"
+    }
+  ],
+  "purchases": [],
+  "products": [
+    {
+      "id": "1",
+      "name": "برجر لحم كلاسيك",
+      "category": "وجبات رئيسية",
+      "price": 25,
+      "color": "bg-orange-100",
+      "icon": "🍔"
+    },
+    {
+      "id": "2",
+      "name": "برجر دجاج",
+      "category": "وجبات رئيسية",
+      "price": 20,
+      "color": "bg-orange-100",
+      "icon": "🍔"
+    },
+    {
+      "id": "3",
+      "name": "شاورما عربي",
+      "category": "وجبات رئيسية",
+      "price": 18,
+      "color": "bg-orange-100",
+      "icon": "🌯"
+    },
+    {
+      "id": "4",
+      "name": "بيتزا مارغريتا",
+      "category": "وجبات رئيسية",
+      "price": 35,
+      "color": "bg-orange-100",
+      "icon": "🍕"
+    },
+    {
+      "id": "5",
+      "name": "بيبسي",
+      "category": "مشروبات",
+      "price": 5,
+      "color": "bg-blue-100",
+      "icon": "🥤"
+    },
+    {
+      "id": "6",
+      "name": "عصير برتقال طازج",
+      "category": "مشروبات",
+      "price": 10,
+      "color": "bg-blue-100",
+      "icon": "🍹"
+    },
+    {
+      "id": "7",
+      "name": "ماء",
+      "category": "مشروبات",
+      "price": 2,
+      "color": "bg-blue-100",
+      "icon": "💧"
+    },
+    {
+      "id": "8",
+      "name": "بطاطس مقلية",
+      "category": "مقبلات",
+      "price": 8,
+      "color": "bg-yellow-100",
+      "icon": "🍟"
+    },
+    {
+      "id": "9",
+      "name": "حلقات بصل",
+      "category": "مقبلات",
+      "price": 10,
+      "color": "bg-yellow-100",
+      "icon": "🧅"
+    },
+    {
+      "id": "10",
+      "name": "تشيز كيك",
+      "category": "حلويات",
+      "price": 15,
+      "color": "bg-pink-100",
+      "icon": "🍰"
+    },
+    {
+      "id": "11",
+      "name": "آيس كريم",
+      "category": "حلويات",
+      "price": 8,
+      "color": "bg-pink-100",
+      "icon": "🍦"
+    },
+    {
+      "id": "12",
+      "name": "وجبة أطفال",
+      "category": "وجبات رئيسية",
+      "price": 15,
+      "color": "bg-orange-100",
+      "icon": "🧸"
+    }
+  ],
+  "categories": [
+    "الكل",
+    "وجبات رئيسية",
+    "مشروبات",
+    "مقبلات",
+    "حلويات"
+  ],
+  "settings": {
+    "cashierPrinter": "",
+    "kitchenPrinter": "",
+    "autoPrintReceipt": false
+  },
+  "users": [
+    {
+      "id": "admin-1",
+      "username": "admin",
+      "password": "123",
+      "role": "admin",
+      "expirationDate": null
+    }
+  ]
+}
